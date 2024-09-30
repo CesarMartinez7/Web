@@ -1,0 +1,51 @@
+
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    align-items: center;
+    align-content: center;
+
+    
+}
+
+.separ{
+    display: flex;
+    justify-content:space-between;
+}
+
+
+
+.back{
+    margin-top: 40%;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+
+}
+
+span{
+    padding: 0 0 0 3px;
+}
+
+img{
+    width: 420px;
+    max-width: 400px;
+}
+
+.section-limit{
+    max-width: 500px;
+    box-sizing: border-box;
+    margin: auto;
+    width: 420px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+    
+}
