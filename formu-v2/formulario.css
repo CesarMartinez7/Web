@@ -1,10 +1,15 @@
+:root{
+    color-scheme: light ;
+}
+
+
 body{
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
     justify-content: center;
     display: flex;
     align-items: center;
-    background: url("/formu-v2/assets/wave-haikei\ \(21\).svg");
+    background: url("/formu-v2/formu-v2/assets/wave-haikei\ \(21\).svg");
     min-height: 100vh;
     
     
@@ -18,11 +23,27 @@ body{
 
 
 #formulario{
-    
     color: #000000;
     background-color: #ffffff;
     width: 450px;
     border-radius: 10px;
-    
 }
 
+
+.textareaa{
+    field-sizing: content;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color:#f3f3f3 ;
+    padding: 8px;
+    color: #4a4a4a;
+    overflow: hidden;
+
+}
+
+
+
+.textareaa:hover{
+    outline: red;
+}
