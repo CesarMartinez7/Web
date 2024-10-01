@@ -1,0 +1,28 @@
+body{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background: url("/formu-v2/assets/wave-haikei\ \(21\).svg");
+    min-height: 100vh;
+    
+    
+}
+
+
+
+.sombra{
+    box-shadow: 0 0 30px 3px rgba(0, 0, 0, 0.066);
+}
+
+
+#formulario{
+    
+    color: #000000;
+    background-color: #ffffff;
+    width: 450px;
+    border-radius: 10px;
+    
+}
+
