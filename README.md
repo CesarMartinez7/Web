@@ -1,8 +1,10 @@
-# Colección de Proyectos Web - CesarMartinez7
+# Colección de Proyectos Web 
 
-Este repositorio contiene varios proyectos web desarrollados por **CesarMartinez7**, con una variedad de funcionalidades y diseños. Entre los proyectos destacados se incluyen réplicas de páginas y componentes como **Google**, **Form**, **Form v2** (hecho con Bulma) y una **Calculadora**.
+Este repositorio contiene varios proyectos web sencillos hechos en mis principios. Entre los proyectos destacados se incluyen réplicas de páginas y componentes como **Google**, **Form**, **Form v2** (hecho con Bulma) y una **Calculadora**.
 
-> ⚠️ **Nota**: Cada proyecto tiene su propia carpeta y puede ser visualizado directamente desde tu navegador. Algunos proyectos hacen uso de la biblioteca CSS **Bulma** para mejorar la apariencia y responsividad.
+>[!NOTE]
+> Cada proyecto tiene su propia carpeta y puede ser visualizado directamente desde tu navegador. Algunos proyectos hacen uso de la biblioteca CSS **Bulma** para mejorar la apariencia y responsividad.
+>
 
 ### 📌 Puntos Principales de Funcionalidad
 - Desarrollo de páginas web con funcionalidades variadas, como formularios y una calculadora.
@@ -21,5 +23,3 @@ Este repositorio contiene varios proyectos web desarrollados por **CesarMartinez
 Este repositorio es ideal para aprender sobre la construcción de interfaces web con HTML, CSS y JavaScript, además de explorar Bulma como una herramienta para diseño rápido y responsivo.
 
 
-
-Explora cada carpeta y experimenta con el código para mejorar tus habilidades en desarrollo web.
