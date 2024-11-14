@@ -1,0 +1,200 @@
+body{
+    background-color: #ffffff;
+    margin: auto;
+    width: 1000px;
+    padding: 0px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.color1{
+    color: #FF7A59;
+}
+.texto_fondo{
+    color:#ffffff;;
+}
+.texto_fondo:hover{
+    color:#2E4053;
+    text-wrap: 10px;
+}
+
+
+.color1:hover{
+    color: #aabcaa;
+    ;
+}
+
+
+.color2{
+    color:#2E4053;
+    text-align: justify;
+    
+}
+.color2:hover{
+    color: cadetblue;
+}
+
+figure img{
+    max-width: 100%;
+    height: auto;
+    
+}
+.imagen_centrada{
+    max-width: 10000px;
+    height: 600px;
+    width: 920px;
+    
+}
+@media(max-width:1000px) and (min-width:200px){
+    body{
+        
+        width: 400px;
+        background-color: rgb(255, 255, 255);
+      
+    }
+    body img{
+        width:500px;
+    }
+}
+
+figure figcaption{
+    margin-top: 10px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+
+pre{
+    background:rgb(209, 214, 212);
+    padding: 10px;
+    text-align: left;
+    overflow-x: auto;
+    text-align: justify;
+}
+
+button {
+    padding: 10px 40px;
+    font-size: 16px;
+    margin-top: 10px;
+    border: none;
+    font: optional;
+    text-align: center;
+    font-style: normal;
+}
+.flex_cajas{
+    list-style: none;
+    padding: 0;
+    background: #ffffff;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    position: sticky;
+    top: 0px;
+}
+    
+.flex_cajas li a{
+    text-decoration: none;
+    color:#FF7A59;
+    padding: 40px;
+    display: block;
+    font-weight:bold;
+    font-style:normal
+    
+    
+
+    ;
+}
+
+div h1{
+    align-items: center;
+    text-align: center;
+}
+.flex_cajas li{
+    display: inline-flex;
+    text-align: center;
+    color: #FF5733;
+}
+.flex_cajas li a:hover{
+    color: #4d4d4d;
+}
+.cajas{
+    margin: 10px;
+    color: #FF5733;
+    background-color: #ffffff;
+    
+}
+
+.caja_2{
+    margin: 56px;
+    color: #FF5733;
+    background-color: #ffffff;
+    text-align: center;
+
+}
+.caja_2:hover{
+    color: #4d4d4d;
+}
+
+.flex_cajas2{
+    display:inline-flex;
+    width: 100px;
+    padding: 10px 40px;
+    font-size: 16px;
+    margin-top: 1%;
+    border: none;
+    font: optional;
+    text-align: center;
+    font-style: normal;
+    text-align: justify;
+}
+
+
+a{
+    text-decoration: none;
+    color: #FF5733;
+}
+a:visited{
+    color: #A569BD;
+}
+
+p{
+    text-align: justify;
+}
+
+
+
+.container2{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5rem;
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;
+    background-color: #3d3d3d;
+}
+
+.img_fondo{
+    background-image: url("https://www.moyak.es/wp-content/uploads/41-scaled.jpg");
+    height: 250px;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+}
+
+
+header.flex_cajas{
+    text-align: center;
+}
+div.color1{
+    text-align: center;
+}
+
